@@ -7,8 +7,8 @@ import java.util.Locale;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.ActionBarActivity;
 import android.content.Context;
 import android.graphics.Color;
 import android.hardware.Sensor;
